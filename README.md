@@ -10,3 +10,20 @@ Atividade de Web API &amp; EF Core em C#.Net
 | 13/06/2026<br>18:30 - 22:00 | Sábado Letivo (referente a uma Sexta-feira)<br><br>Acompanhamento do Desenvolvimento da Web API                                                |
 | 19/06/2026<br>18:30 - 22:00 | Apresentação do Projeto Web API                                                                                                                |
 | 26/06/2026<br>18:30 - 22:00 | FInalização / Revisão / Agendamento de AF                                                                                                      |
+
+
+# Seminários de Padrões de Projetos
+
+- ARTUR SOARES
+- CARLOS MATEUS
+- DAVÍ JOSÉ
+- EDUARDO ANTUNES
+- JOAQUIM CABRAL
+- JOSUE ROCHA
+- KILDERY
+- LUSIANE
+- MARCOS GUSTAVO
+- MARINA QUEIROZ
+- PEDRO LUCAS
+- SAMUELSON
+- YAN CARLOS RIBEIRO DE OLIVEIRA
