@@ -37,18 +37,17 @@ Cada estudante estudará um padrão de projeto específico. Prepare uma apresent
 
 ### 3.1 Atividade Proposta
 
-Construir uma API Web com controllers e EF Core. O Entity Framework Core permitirá o acesso a um banco de dados definido pela equipe (como SQLite, Postgres, MySQL, etc). O domínio da solução desenvolvida deve possuir ao menos três entidades (≥ 3 tabelas no BD relacional), no mínimo (por exemplo: Pessoa, Produto, Categoria, etc) e as operações de CRUD (Create, Read, Update, Delete) para cada uma delas. Na modelagem de dados,  relacionamentos um-para-um, um-para-muitos e muitos-para-muitos devem estar presentes. Usem migrations, de modo a mapear as entidades e relacionamentos para o banco de dados escolhido. Ao fim da atividade, o repositório de códigos e um vídeo explicativo são os entregáveis a serem enviados ao professor. A temática do projeto Web API + EF Core é livre. A atividade deve ser feita em equipe. Há o projeto https://github.com/santiagosilas/dotnet-api-efcore-lab/tree/main/backend/api que podem se basear.
+Construir uma API Web com controllers e EF Core. O Entity Framework Core permitirá o acesso a um banco de dados definido pela equipe (como SQLite, Postgres, MySQL, etc). O domínio da solução desenvolvida deve possuir ao menos três entidades (≥ 3 tabelas no BD relacional), no mínimo (por exemplo: Pessoa, Produto, Categoria, etc) e as operações de CRUD (Create, Read, Update, Delete) para cada uma delas. Na modelagem de dados,  relacionamentos um-para-um, um-para-muitos e muitos-para-muitos devem estar presentes. Usem migrations, de modo a mapear as entidades e relacionamentos para o banco de dados escolhido. Ao fim da atividade, o repositório de códigos e uma apresentação em sala. A temática do projeto Web API + EF Core é livre. A atividade deve ser feita em equipe.
 
 ### 3.2 Entregáveis e Pontuações
 - Código-fonte em Repositório Github (incluir o professor no repositório)
-- Explicação em Vídeo: A equipe deve produzir um vídeo explicativo com gravação de tela em que cada integrante explica uma parte do que foi desenvolvido. O vídeo completo deve ter duração entre 45 à 60 minutos.   Sugestão de ferramenta para gravação da tela: OBS Studio; O vídeo deve ser disponibilizado do seguinte modo: faça o upload do vídeo no Youtube [com a opção não listado] (de modo que fica visível apenas para quem possui o link) e disponibilize o link na atividade do classroom. Caso prefiram, podem construir uma playlist não listada no Youtube composta de vídeos explicativos menores que no total fechem o tempo entre 45 a 60 minutos. Caprichem na explicação. Busquem explicar de forma aprofundada e técnica o projeto desenvolvido. Um único vídeo é produzido com a participação de todos os integrantes da equipe.
+- Explicação em sala.
 
 ### 3.3 Aspectos de Atenção
 * 🔳 README.md com instruções claras para rodar o projeto (versão .NET, comandos dotnet ef migrations, connection string, como executar). 
 * 🔳 Todos devem contribuir com commits próprios e identificáveis no repositório;
 * 🔳 Endpoints testáveis (Swagger ou coleção Postman).
 * 🔳 Três ou mais entidades e relacionamentos um-para-um, um-para-muitos e muitos-para-muitos;
-* 🔳 Vídeo ou Playlist no YouTube (link Não listado) e link no Classroom.
 
 
 
