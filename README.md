@@ -1,7 +1,7 @@
 # 2026.1-LP2-N2-AtvCSharpWebApi
 Atividade de Web API &amp; EF Core em C#.Net
 
-## Agenda
+# Agenda
 
 | 29/05/2026<br>18:30 - 22:00 | Aula Expositiva: Padrões de Projeto;<br><br>Aula Expositiva: Explicação do Projeto EF Core<br><br>Acompanhamento do Desenvolvimento da Web API |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
