@@ -50,9 +50,6 @@ Construir uma API Web com controllers e EF Core. O Entity Framework Core permiti
 * 🔳 Três ou mais entidades e relacionamentos um-para-um, um-para-muitos e muitos-para-muitos;
 * 🔳 Vídeo ou Playlist no YouTube (link Não listado) e link no Classroom.
 
-### 3.4 Projeto-Exemplo de Apoio
-* Sugere-se consultar o repositório de apoio: https://github.com/santiagosilas/dotnet-api-efcore-lab.  (Projeto com Web API + EF Core usando PostgreSQL — serve como referência de organização). 
-
 
 
 
