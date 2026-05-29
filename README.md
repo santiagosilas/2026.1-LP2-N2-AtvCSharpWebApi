@@ -14,16 +14,18 @@ Atividade de Web API &amp; EF Core em C#.Net
 
 # Seminários de Padrões de Projetos
 
-- ARTUR SOARES
-- CARLOS MATEUS
-- DAVÍ JOSÉ
-- EDUARDO ANTUNES
-- JOAQUIM CABRAL
-- JOSUE ROCHA
-- KILDERY
-- LUSIANE
-- MARCOS GUSTAVO
-- MARINA QUEIROZ
-- PEDRO LUCAS
-- SAMUELSON
-- YAN CARLOS RIBEIRO DE OLIVEIRA
+Prepare uma apresentação de slides para o padrão de projeto definido. Apresente o problema, a solução, a estrutura do padrão e um exemplo de código (a linguagem de programação é livre). Como material didático, guie-se por http://refactoring.guru/pt-br.
+
+| ARTUR SOARES | Chain of Responsibility |
+| CARLOS MATEUS | Composite |
+| DAVÍ JOSÉ | Abstract Factory |
+| EDUARDO ANTUNES | Command |
+| JOAQUIM CABRAL | Decorator |
+| JOSUE ROCHA | Builder |
+| KILDERY | Iterator |
+| LUSIANE |  Facade |
+| MARCOS GUSTAVO | Prototype |
+| MARINA QUEIROZ | Strategy |
+| PEDRO LUCAS | Proxy |
+| YAN CARLOS | Singleton |
+
