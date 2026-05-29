@@ -16,6 +16,8 @@ Atividade de Web API &amp; EF Core em C#.Net
 
 Prepare uma apresentação de slides para o padrão de projeto definido. Apresente o problema, a solução, a estrutura do padrão e um exemplo de código (a linguagem de programação é livre). Como material didático, guie-se por http://refactoring.guru/pt-br.
 
+| Aluno | Padrão de Projeto |
+| :--- | :--- |
 | ARTUR SOARES | Chain of Responsibility |
 | CARLOS MATEUS | Composite |
 | DAVÍ JOSÉ | Abstract Factory |
@@ -23,7 +25,7 @@ Prepare uma apresentação de slides para o padrão de projeto definido. Apresen
 | JOAQUIM CABRAL | Decorator |
 | JOSUE ROCHA | Builder |
 | KILDERY | Iterator |
-| LUSIANE |  Facade |
+| LUSIANE | Facade |
 | MARCOS GUSTAVO | Prototype |
 | MARINA QUEIROZ | Strategy |
 | PEDRO LUCAS | Proxy |
