@@ -29,6 +29,7 @@ Cada estudante estudará um padrão de projeto específico. Prepare uma apresent
 | MARCOS GUSTAVO | Prototype |
 | MARINA QUEIROZ | Strategy |
 | PEDRO LUCAS | Proxy |
+| SAMUELSON | Flyweight |
 | YAN CARLOS | Singleton |
 
 
