@@ -14,7 +14,7 @@ Atividade de Web API &amp; EF Core em C#.Net
 
 # Seminários de Padrões de Projetos
 
-Prepare uma apresentação de slides para o padrão de projeto definido. Apresente o problema, a solução, a estrutura do padrão e um exemplo de código (a linguagem de programação é livre). Como material didático, guie-se por http://refactoring.guru/pt-br.
+Cada estudante estudará um padrão de projeto específico. Prepare uma apresentação de slides para o padrão de projeto definido. Apresente o problema, a solução, a estrutura do padrão e um exemplo de código (a linguagem de programação é livre). Como material didático, guie-se por http://refactoring.guru/pt-br. Construa uma apresentação com tempo estimado de 10 a 12 minutos.
 
 | Aluno | Padrão de Projeto |
 | :--- | :--- |
