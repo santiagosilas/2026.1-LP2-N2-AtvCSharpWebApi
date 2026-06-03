@@ -3,7 +3,7 @@ Atividade de Web API &amp; EF Core em C#.Net
 
 ## 1. Agenda
 
-| 29/05/2026<br>18:30 - 22:00 | ☑️ Aula Expositiva: Padrões de Projeto;<br><br>Aula Expositiva: ☑️ Explicação do Projeto EF Core |
+| 29/05/2026<br>18:30 - 22:00 | ☑️ Aula Expositiva: Padrões de Projeto;<br><br> ☑️ Aula Expositiva: Explicação do Projeto EF Core |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 05/06/2026<br>18:30 - 22:00 | Sem Aula (Recesso - Calendário) Acompanhamento do Desenvolvimento da Web API                                                                   |
 | 12/06/2026<br>18:30 - 22:00 | Seminários de Padrões de Projetos;<br><br>Acompanhamento do Desenvolvimento da Web API                                                      |
