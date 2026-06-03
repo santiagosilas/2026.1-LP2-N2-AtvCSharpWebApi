@@ -6,9 +6,9 @@ Atividade de Web API &amp; EF Core em C#.Net
 | 29/05/2026<br>18:30 - 22:00 | ☑️ Aula Expositiva: Padrões de Projeto;<br><br> ☑️ Aula Expositiva: Explicação do Projeto EF Core |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 05/06/2026<br>18:30 - 22:00 | Sem Aula (Recesso - Calendário) Acompanhamento do Desenvolvimento da Web API                                                                   |
-| 12/06/2026<br>18:30 - 22:00 | Seminários de Padrões de Projetos;<br><br>Acompanhamento do Desenvolvimento da Web API                                                      |
+| 12/06/2026<br>18:30 - 22:00 | Seminários de Padrões de Projetos (apresentação em sala ou envio de apresentação em vídeo (15 a 20 minutos) até 15/Junho (Segunda);            |
 | 13/06/2026<br>18:30 - 22:00 | Sábado Letivo (referente a uma Sexta-feira)<br>Acompanhamento do Desenvolvimento da Web API                                                    |
-| 19/06/2026<br>18:30 - 22:00 | Apresentação do Projeto Web API                                                                                                                |
+| 19/06/2026<br>18:30 - 22:00 | Apresentação do Projeto Web API em Sala (Dia 19 - Sexta) ou Envio de vídeo explicativo até 22/Junho (Segunda)                                  |
 | 26/06/2026<br>18:30 - 22:00 | Finalização / Revisão / Agendamento de AF                                                                                                      |
 
 
@@ -32,6 +32,7 @@ Cada estudante estudará um padrão de projeto específico. Prepare uma apresent
 | SAMUELSON | Flyweight |
 | YAN CARLOS | Singleton |
 
+OBS: Para a apresentação do padrão de projeto, informar antecipadamente o formato escolhido (apresentação em sala ou envio de vídeo explicativo).
 
 ## 3. Projeto Web API
 
@@ -39,9 +40,11 @@ Cada estudante estudará um padrão de projeto específico. Prepare uma apresent
 
 Construir uma API Web com controllers e EF Core. O Entity Framework Core permitirá o acesso a um banco de dados definido pela equipe (como SQLite, Postgres, MySQL, etc). O domínio da solução desenvolvida deve possuir ao menos três entidades (≥ 3 tabelas no BD relacional), no mínimo (por exemplo: Pessoa, Produto, Categoria, etc) e as operações de CRUD (Create, Read, Update, Delete) para cada uma delas. Na modelagem de dados,  relacionamentos um-para-um, um-para-muitos e muitos-para-muitos devem estar presentes. Usem migrations, de modo a mapear as entidades e relacionamentos para o banco de dados escolhido. Ao fim da atividade, o repositório de códigos e uma apresentação em sala. A temática do projeto Web API + EF Core é livre. A atividade deve ser feita em equipe.
 
+OBS: Para a apresentação do padrão de código-fonte, informar antecipadamente o formato escolhido (apresentação em sala ou envio de vídeo explicativo).
+
 ### 3.2 Entregáveis e Pontuações
 - Código-fonte em Repositório Github (incluir o professor no repositório)
-- Explicação em sala.
+- Explicação em sala ou Envio de vídeo explicativo (15 a 20 minutos) até 22/Junho (Segunda);
 
 ### 3.3 Aspectos de Atenção
 * 🔳 README.md com instruções claras para rodar o projeto (versão .NET, comandos dotnet ef migrations, connection string, como executar). 
