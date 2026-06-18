@@ -8,8 +8,8 @@ Atividade de Web API &amp; EF Core em C#.Net
 | 05/06/2026<br>18:30 - 22:00 | Sem Aula (Recesso - Calendário) Acompanhamento do Desenvolvimento da Web API                                                                   |
 | 12/06/2026<br>18:30 - 22:00 | Seminários de Padrões de Projetos (apresentação em sala ou envio de apresentação em vídeo (15 a 20 minutos) até 15/Junho (Segunda);            |
 | 13/06/2026<br>18:30 - 22:00 | Sábado Letivo (referente a uma Sexta-feira)<br>Acompanhamento do Desenvolvimento da Web API                                                    |
-| 19/06/2026<br>18:30 - 22:00 | Apresentação do Projeto Web API em Sala (Dia 19 - Sexta) ou Envio de vídeo explicativo até 22/Junho (Segunda)                                  |
-| 26/06/2026<br>18:30 - 22:00 | Finalização / Revisão / Agendamento de AF                                                                                                      |
+| 19/06/2026<br>18:30 - 22:00 | Acompanhamento de Projetos (Dia 19 - Sexta)                                   |
+| 26/06/2026<br>18:30 - 22:00 | Apresentação em Sala ou ou Envio de vídeo explicativo                                                                                    |
 
 
 ## 2. Seminários de Padrões de Projetos (12/Junho)
